@@ -1,0 +1,624 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45129_TV_.png", TV+
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/150px-La_Red_Logotipo.svg.png", La Red
+http://181.43.224.215:9981/stream/channelid/747536354
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81741_TV_Chile.png", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45126_TVN.png",  TVN
+https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45124_Mega.jpg",  Mega
+http://extremo.dyndns.ws:25461/live/Alexis/Alexis/16319.rtmp?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/70067_Mega_Plus.png", Mega Plus
+https://mdstrm.com/live-stream-playlist-v/5cec733982c03c34df27ccb3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45122_CHV.png",  CHV
+https://mdstrm.com/live-stream-playlist/5cc0855ddf297e136a586daa.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96814_Canal_13.png", Canal 13
+https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95390_13i.png", 13i
+https://jimmy.zappingtv.com/13i/13i.smil/chunklist_w864550285_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTc0MCZ3b3d6YXRva2VuaGFzaD1XVF9kaUJwRGtzcTNXdGVHcHFiTk0wX0RuWTJLV2lPeW96blZacHBUQnVJPQ==.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95386_13c.png", 13c
+https://jimmy.zappingtv.com/13c/13c.smil/chunklist_b3628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTU2MCZ3b3d6YXRva2VuaGFzaD1rNDB0a21ERi1aZ2oyRlpHeXJSVkxGaFJMdjdMUmdTSVFUeENla1U4OVl3PQ==.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/68737_STGO_TV.png", STGO.TV
+https://stv.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45161_UCV_3___Gran_Valparaiso.png",   UCV 3 - Gran Valparaiso 
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/78412_Campus_TV.png", Campus TV
+https://unlimited6-cl.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/47415_TVU.png", TVU
+https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79753_Ufrovision.png", Ufrovision
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45163_Universidad_Autonoma.png",   Universidad Autonoma 
+https://unlimited5-cl.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96811_U_Los_Lagos.png", U Los Lagos
+https://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79755_UMAG_TV.png", UMAG TV
+https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97664_UMAG_TV_2.png", UMAG TV 2
+https://tls.cdnz.cl/itser4/ngrp:tser4.sdp_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45162_UesTV.png",   UesTV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45128_TVR.png",  TVR
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95117_TU_Canal_TV_Colina.png", TU Canal TV Colina
+http://hd.chileservidores.cl:8080/colina/colina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96318_Buin_Somos_Todos.png", Buin Somos Todos
+https://bst.buin.cl/0.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/47417_Locomotion.png", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png",  Cachipum TV
+http://23.236.180.26/11580409776/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/93920_Boing.png", Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96323_Teleton_TV.png", Teleton TV
+https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80097_Maxima_Movie.jpg", Maxima Movie
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/94791_Radio_Conecta2_TV_Live.png", Radio Conecta2 TV Live
+https://inliveserver.com:1936/11502/11502/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", ZP TV
+https://video1.getstreamhosting.com:1936/8386/8386/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/75709_Retro_Plus_TV.png", Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96701_Frecuencia_Musical_TV.png", Frecuencia Musical TV
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96907_VoxPopuli_Chile.png", VoxPopuli Chile
+https://unlimited10-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96699_Orbit_TV.png", Orbit TV
+https://ss6.domint.net:3082/202_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96812_Arab_TV.png", Arab TV
+https://livefocamundo.com:8081/8160/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/77106_Enfoque_Digital_TV.png", Enfoque Digital TV
+http://serviaudio.com:1935/wami9/wami9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96702_TecTV.png", TecTV
+http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45119_FM_Hot_TV_HD.png",   FM Hot TV HD 
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97807_Control_VG_TV__desde_las_00_30_hrs_.png", Control.VG TV (desde las 00:30 hrs)
+https://unlimited6-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45125_TV_Senado.png",  TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45120_Camara_de_Diputados.png",  Camara de Diputados
+https://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/93284_Poder_Judicial.png", Poder Judicial
+http://unlimited5-cl.digitalproserver.com/judicial3/judicial3.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png", TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90569_Tendencias_TV.png", Tendencias TV
+https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95116_Campo_Abierto_TV.png", Campo Abierto TV
+https://v2.tustreaming.cl/campoabierto/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45139_Arica_TV.png",   Arica TV 
+https://5d1ca66d2d698.streamlock.net:1936/8028/8028/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79750_Cappissima_Multimedial_TV.", Cappissima Multimedial TV
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/94188_Puerta_Norte.png", Puerta Norte
+https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45138_Antofagasta_TV.png", Antofagasta TV
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45137_AM_Canal.png", AM Canal
+https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/60296_Holvoet_TV.png", Holvoet TV
+https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79754_Atacama_TV.png", Atacama TV
+https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83961_Canal_Costa_TV.png",  Canal Costa TV
+https://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96310_Canal_Costa_Reggaeton.png", Canal Costa Reggaeton
+https://srv3.zcast.com.br/canalcostatv/canalcostatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96312_Canal_Costa_Latinos.png", Canal Costa Latinos
+https://srv3.zcast.com.br/latinos/latinos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96311_Canal_Costa_80s.png", Canal Costa 80s
+https://srv3.zcast.com.br/canalcosta80/canalcosta80/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83650_Desierto_TV.png", Desierto TV
+https://unlimited10-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97598_Madero_TV.png", Madero TV
+https://unlimited5-cl.dps.live/maderotv/maderotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45156_ThemaTV.png",   ThemaTV 
+https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79760_TV2_Choapa.png", TV2 Choapa
+https://unlimited1-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97665_Tele_8_Illapel.png", Tele 8 Illapel
+https://590c5dc5c3271.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45164_Canal_VTV_Los_Andes___San_Felipe.png", Canal VTV Los Andes - San Felipe
+https://unlimited5-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45165_VTV_Vina_del_Mar.png",   VTV Vina del Mar 
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83635_Estudio_TV.png", Estudio TV
+https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79761_Girovisual_TV.png", Girovisual TV
+http://unlimited2-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45140_Canal_2_de_San_Antonio.png",   Canal 2 de San Antonio 
+https://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png", Canal 74 TeVe
+https://5d4a00b8a0738.streamlock.net/8096/8096/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84923_TV_El_Central.png", TV El Central
+https://5580a424c4e9f.streamlock.net:8020/vs/tvelcentral/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45159_TVO_San_Vicente.png",   TVO San Vicente 
+https://wow2.cl.digitalproserver.com/tvo/tvovivo/tvo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79752_Sextavision.jpg", Sextavision
+https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97680_Massiva_TV.png", Massiva TV
+http://unlimited2-cl.dps.live/massivafm/massivafm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45157_TV_Centro.png", TV Centro
+https://unlimited2-cl.dps.live/tvcentro/tvcentro.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95385_TVR_Canal_11.png", TVR Canal 11
+https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45148_Contivision.png", Contivision
+https://unlimited2-cl.dps.live/contivision/contivision.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79756_UTV_San_Clemente.png", UTV San Clemente
+https://v2.tustreaming.cl/utvsc/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/94106_Nativa_TV.png", Nativa TV
+https://inliveserver.com:1936/11528/mp4:11528_360p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45145_Canal_5_Linares.png", Canal 5 Linares
+https://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81742_TV_Maulinos.png", TV Maulinos
+https://590c5dc5c3271.streamlock.net/juancarlos563/juancarlos563/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45142_Canal_21_Chillan.png",   Canal 21 Chillan 
+https://tls.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45136_Estacion_TV.png",   Estacion TV
+https://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97652_ClickTv.png", ClickTv
+https://streaming.amelbasoluciones.co/hls/clicktv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45146_Canal_9_Bio_Bio_TV.png", Canal 9 Bio Bio TV
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/47414_TV8.png", TV8
+https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81743_Canal_11_de_Cabrero.png", Canal 11 de Cabrero
+http://play.streaminghd.cl/claudio441/claudio441/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79763_TV4.png", TV4
+http://evo.eltelon.com:1935/live/tv4-television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79762_Teleangol_Radio.png", Teleangol Radio
+https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79764_Pucon_TV.png", Pucon TV
+https://unlimited5-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84122_Temuco_TV.png", Temuco TV
+https://593d7fe3c9b0d.streamlock.net/8172/8172/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83651_Canal_33.png", Canal 33
+https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/62025_LTV_canal.png", LTV canal
+https://streaming.supportinet.cl:1443/ltv/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45151_Inet_TV.png",   Inet TV 
+https://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97666_Canal_Latino_54.png", Canal Latino 54
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97675_Osorno_TV_.jpg", Osorno TV+
+https://593b04c4c5670.streamlock.net/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79765_Decima_TV.png", Decima TV
+https://unlimited5-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79747_Canal_5_Puerto_Montt.", Canal 5 Puerto Montt
+https://inliveserver.com:1936/10030/10030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45141_Canal_2_Quellon.png",   Canal 2 Quellon 
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/74297_Fresia_TV.png", Fresia TV
+https://inliveserver.com:1936/10018/10018/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81736_Canal_Survision_Alerce.png", Canal Survision Alerce
+https://v2.tustreaming.cl/survision/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79749_Canal_Chilote.png", Canal Chilote
+http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79751_Canal_11_TV_Aysen.png", Canal 11 TV Aysen
+https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79759_Santa_Maria_TV.png", Santa Maria TV
+https://unlimited6-cl.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79766_Rocco_TV_4.png", Rocco TV 4
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84585_Soberania_Radio.png", Soberania Radio
+https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45152_ITV_Patagonia.png",   ITV Patagonia 
+https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png",   PinguinoTV 
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45160_TVRed_Punta_Arenas.png", TVRed Punta Arenas
+http://45.33.58.155:1935/live/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/90632_Garage_TV.png", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84845_TV_Turf_Movil.png", TV Turf Movil
+https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79757_Valparaiso_Sporting.gif", Valparaiso Sporting
+https://unlimited10-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45106_Teletrak_HD.jpg",  Teletrak HD
+https://unlimited2-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95118_Club_U_de_Chile__Ocasional_.png", Club U de Chile (Ocasional)
+https://unlimited5-cl.dps.live/cda/cda.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45111_Carolina_TV.png",  Carolina TV
+https://unlimited5-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45112_Gufo_Chile.png",  Gufo Chile
+https://jimmy.zappingtv.com/gufochile/gufo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/67425_DJ_Loncho_TV.png", DJ Loncho TV
+https://stmv3.srvstm.com/alonso7603/alonso7603/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95520_Mix_247_TV.png", Mix 247 TV
+https://593d7fe3c9b0d.streamlock.net:443/8114/8114/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45103_Contivision_Musica.png", Contivision Musica 
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45116_Portal_FoxMix.png",  Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/78105_RUIDOS_TV.jpg", RUIDOS TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80098_Maxima_FM.jpg", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/47360_TV_vconline_cl.jpg", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96280_TOP_Latino_TV.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96700_Telemusica.png", Telemusica
+https://5b464b69d264e.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96787_Radio_Riquelme_TV.png", Radio Riquelme TV
+https://live.streamchileno.cl:5443/LiveApp/streams/250193818965084400076085.m3u8?token=null&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97300_On_Radio_Kpop.png", On Radio Kpop
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97299_On_Radio_Chile.png", On Radio Chile
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95360_Beat_TV.png", Beat TV
+https://590c5dc5c3271.streamlock.net/sebastian870/sebastian870/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97674_Radio_X.png", Radio X
+https://v2.tustreaming.cl/radiox/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79801_AncoaTV.png", AncoaTV
+http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97670_Radio_Hoy.png", Radio Hoy
+https://593b04c4c5670.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97667_Preludio_TV.png", Preludio TV
+https://593d7fe3c9b0d.streamlock.net/8110/8110/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97668_Radio_Las_Nieves.png", Radio Las Nieves
+https://v2.tustreaming.cl/rln/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97671_Radio_Chiloe.png", Radio Chiloe
+https://5580a424c4e9f.streamlock.net:8020/reseller/chiloe1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95361_Radio_Camila_TV.png", Radio Camila TV
+https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96698_InterRadio_TV.png", InterRadio TV
+https://player-jose-1100.ciclano.io:1443/jose-1100/jose-1100/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96696_Radio_Genial_TV.png", Radio Genial TV
+https://v2.tustreaming.cl/genialtv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97673_Radio_Presidente_Ibanez.png", Radio Presidente Ibanez
+https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/76351_En_La_Noticia_Radio.png", En La Noticia Radio
+http://hd.chileservidores.cl:8080/reseller/chiloe3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/74165_Bio_Bio_TV.png", Bio Bio TV
+https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97672_Radio_Fantasia_TV.png", Radio Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/live1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/91382_Radio_Cooperativa.png",  Radio Cooperativa
+https://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/91381_Radio_Agricultura.png", Radio Agricultura
+https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45134_ADN.png",   ADN 
+https://unlimited5-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83832_Pauta.png", Pauta
+https://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd&PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/91380_Radio_Infinita.png", Radio Infinita
+https://unlimited4-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45135_Futuro_TV.png",  Futuro TV
+https://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/91376_AE_Radio.jpg", AE Radio
+https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/91379_Radio_Romantica.png", Radio Romantica
+https://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/91383_Radio_Candela.png", Radio Candela
+https://unlimited6-cl.dps.live/candelatv/candelatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/92611_Pura_Noticia.png", Pura Noticia
+https://mediaserver5.janus.cl/puranoticia/en-vivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96703_Interamericana_TV.png", Interamericana TV
+https://unlimited2-cl.dps.live/sinfoniatv/sinfoniatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96320_Radio_Portales.png", Radio Portales
+https://stream2.polarhost.cl/show/portales2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95387_Pudahuel_FM.png", Pudahuel FM
+https://unlimited10-cl.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95388_Radio_Favorita.png", Radio Favorita
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95389_Futura_TV.png", Futura TV
+https://unlimited2-cl.dps.live/futuratv/futuratv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95391_Radio_Rancagua.png", Radio Rancagua
+https://593d7fe3c9b0d.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/94606_Maulina_FM.png", Maulina FM
+https://v2.tustreaming.cl/maulinafm/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/94803_Zona_Play_Radio.",  Zona Play Radio
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96706_El_Conquistador_TV.png", El Conquistador TV
+http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.duna.cl/media/2019/04/logo-duna.jpg",  Radio Duna
+https://unlimited6-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96788_Radio_Via_Libre.png", Radio Via Libre
+https://593b04c4c5670.streamlock.net/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/91372_Radio_Tiempo.png",  Radio Tiempo
+http://unlimited6-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png ", Eurochannel
+http://iptvactivador.online:25461/limitado/limitadoxtlker/57
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/170px-StudioUniversal2016.png" , Studio Universal
+http://iptvactivador.online:25461/limitado/limitadoxtlker/58
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png ", TNT 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/59
+#EXTINF:-1, AXN
+http://iptvactivador.online:25461/limitado/limitadoxtlker/61
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/AMC2019.png/150px-AMC2019.png ", AMC
+http://iptvactivador.online:25461/limitado/limitadoxtlker/62
+#EXTINF:-1, A&E 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/63
+#EXTINF:-1,  FOX
+http://iptvactivador.online:25461/limitado/limitadoxtlker/64
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_fx.png", FX 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/66
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_fxmovies.png", FXM
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/501.ts
+#EXTINF:-1,Paramount Channel  
+http://iptvactivador.online:25461/limitado/limitadoxtlker/67
+#EXTINF:-1, SYFY 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/68
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT Series 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/69
+#EXTINF:-1, SONY 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/100
+#EXTINF:-1, Universal Channel
+http://iptvactivador.online:25461/limitado/limitadoxtlker/71
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_warner-channel_m.png", Warner Channel 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/72
+#EXTINF:-1,Cinemax 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/73
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/150px-Cinelatino_logo.png ", Cinelatino
+http://iptvactivador.online:25461/limitado/limitadoxtlker/75
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/175px-CinecanalLA.png", Cinecanal
+http://iptvactivador.online:25461/limitado/limitadoxtlker/76
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png ", Golden Edge
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/505.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/90px-Logo_Golden_TV.svg.png", Golden
+http://iptvactivador.online:25461/limitado/limitadoxtlker/78
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxseries.png", FOX Premium Series 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/81
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxmovies.png", FOX Premium Movies
+http://iptvactivador.online:25461/limitado/limitadoxtlker/82
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxfamily.png", FOX Premium Family
+http://iptvactivador.online:25461/limitado/limitadoxtlker/83
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxcomedy.png", FOX Premium Comedy
+http://iptvactivador.online:25461/limitado/limitadoxtlker/84
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxclassics.png", FOX Premium Classic
+http://iptvactivador.online:25461/limitado/limitadoxtlker/85
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxcinema.png", FOX Premium Cinema
+http://iptvactivador.online:25461/limitado/limitadoxtlker/86
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxaction.png", FOX Premium Action
+http://iptvactivador.online:25461/limitado/limitadoxtlker/87
+#EXTINF:-1, HBO 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/91
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO2_logo.png", HBO2 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/88
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/800px-Logohboplus2019.svg.png ", HBO Plus
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1922
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png", HBO Signature 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/89
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/135px-HBO_Family_logo.png", HBO Family 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/92
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/170px-HBO_Xtreme.svg.png", HBO Extreme
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/524.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/150px-HBO_Pop.svg.png", HBO Pop
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/525.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/175px-Comedy_Central_2018.svg.png ", Comedy Central
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/460.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/165px-SpaceLogo.svg.png", Space
+http://iptvactivador.online:25461/limitado/limitadoxtlker/95
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/140px-I.Sat_logo.svg.png", ISat
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1523
+#EXTINF:-1, TLC
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1017
+#EXTINF:-1, TBS
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1529
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/100px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/558.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/200px-HWD_logo.svg.png", Hollywood
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/660.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/200px-SundanceTVlogo.png", Sundance 
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/554.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film%26Arts2016.png/200px-Film%26Arts2016.png", Film & Arts
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/486.ts
+#EXTINF:-1, TRUTV 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/70
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/120px-Investigation_Discovery_Logo_2018.svg.png", Investigation Discovery
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/518.ts
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96261_DW_Deutsch.png", DW Deutsch
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83641_DW_Espanol.png", DW Espanol
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png", DW
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/476.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/120px-TVE.svg.png ", TVE 
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/574.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83642_Rai_Premium.png", Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83646_Zee_Mundo.png", Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1200px-TV_Chosun_logo_%28hangul%29.svg.png", TV Chosun http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/150px-DirecTV_Sports_Latin_America_%282018%29.png", Directv Sports 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/364
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2
+http://iptvactivador.online:25461/limitado/limitadoxtlker/365
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png ", TVC Deportes
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1531
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png", Movistar Deportes
+http://iptvactivador.online:25461/limitado/limitadoxtlker/371
+#EXTINF:-1 tvg-logo="https://www.partidosdehoyargentina.com/images/newchannels/sm_tycsportsinternacional.gif", TyC Sports Internacional
+http://iptvactivador.online:25461/limitado/limitadoxtlker/373
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png", Gol TV
+http://iptvactivador.online:25461/limitado/limitadoxtlker/376
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/ESPN.png/140px-ESPN.png", ESPN 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/377
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/175px-Espn2.svg.png", ESPN2 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/378
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/150px-Logo_Eurochannel.png", ESPN3
+http://iptvactivador.online:25461/limitado/limitadoxtlker/379
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ESPN%2B_logo.jpg/245px-ESPN%2B_logo.jpg", ESPN Plus 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/380
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/SEC_Network_Logo.png/200px-SEC_Network_Logo.png", ESPN SEC
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/483.ts
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxsports.png", FOX Sports
+http://iptvactivador.online:25461/limitado/limitadoxtlker/383
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxsports2.png", FOX Sports 2
+http://iptvactivador.online:25461/limitado/limitadoxtlker/384
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_foxsports3.png", FOX Sports 3
+http://iptvactivador.online:25461/limitado/limitadoxtlker/385
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45108_CDO_Play.png",  CDO Play
+https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97669_CDO.png", CDO
+http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", De Pelicula
+http://iptvactivador.online:25461/limitado/limitadoxtlker/77
+#EXTINF:-1 tvg-logo="https://www.grupocomunica.com/wp-content/uploads/2016/05/DePeliculaClasico2011-2.png", De Pelicula Clasico
+http://iptvactivador.online:25461/limitado/limitadoxtlker/96
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/d-plus.png", De Pelicula Plus
+http://iptvactivador.online:25461/limitado/limitadoxtlker/97
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/245px-TV_Azteca_Cinema_logo.svg.png", Azteca Cinema
+http://iptvactivador.online:25461/limitado/limitadoxtlker/99
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraTainmentLogoBlack.png", Ultra Tainment HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/386
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png", Ultra Mex HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/387
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png", Ultra Macho HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/388
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png", Ultra Luna HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/389
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidzLogoBlack.png ", Ultra Kids HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/390
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilmLogoBlack.png ", Ultra Film HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/391
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiestaLogoBlack.png ", Ultra Fiesta HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/392
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png", Ultra Familia HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/393
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png", Ultra Docu HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/394
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png", Ultra Clasico HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/395
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png", Ultra Cine HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/396
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo.png", Ultra Banda HD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/397
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/225px-Nickelodeon_2009_logo.svg.png", Nickelodeon
+http://iptvactivador.online:25461/limitado/limitadoxtlker/427
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/250px-Nick_2.png", Nick 2
+http://iptvactivador.online:25461/limitado/limitadoxtlker/416
+#EXTINF:-1, Nick Jr.
+http://iptvactivador.online:25461/limitado/limitadoxtlker/428
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/250px-Nicktoons_Network_logo_2009.svg.png", Nicktoons
+http://iptvactivador.online:25461/limitado/limitadoxtlker/424
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+http://iptvactivador.online:25461/limitado/limitadoxtlker/422
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/250px-Disney_Channel_logo_%282014%29.svg.png", Disney Channel
+http://iptvactivador.online:25461/limitado/limitadoxtlker/430
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png", Disney XD
+http://iptvactivador.online:25461/limitado/limitadoxtlker/431
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png", Disney Junior
+http://iptvactivador.online:25461/limitado/limitadoxtlker/419
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/125px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
+http://iptvactivador.online:25461/limitado/limitadoxtlker/432
+#EXTINF:-1 tvg-logo="https://foxmaspromo.foxplay.com/img/logo_ngkids.png", Nat Geo Kids 
+http://iptvactivador.online:25461/limitado/limitadoxtlker/426
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/125px-Boomerang_2014_logo.svg.png", Boomerang
+http://iptvactivador.online:25461/limitado/limitadoxtlker/425
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png ", Tooncast
+http://iptvactivador.online:25461/limitado/limitadoxtlker/429
+#EXTINF:-1, Discovery Channel
+http://iptvactivador.online:25461/limitado/limitadoxtlker/488
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png", Discovery H&H
+http://iptvactivador.online:25461/limitado/limitadoxtlker/489
+#EXTINF:-1, Discovery Turbo
+http://iptvactivador.online:25461/limitado/limitadoxtlker/491
+#EXTINF:-1, Discovery World
+http://iptvactivador.online:25461/limitado/limitadoxtlker/492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater
+http://iptvactivador.online:25461/limitado/limitadoxtlker/493
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/245px-Discovery_Civilization_logo.svg.png", Discovery Civilization
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/464.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Science_logo.svg/150px-Science_logo.svg.png", Discovery Science
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/467.ts
+#EXTINF:-1, History Channel
+http://iptvactivador.online:25461/limitado/limitadoxtlker/494
+#EXTINF:-1, Nat Geo
+http://iptvactivador.online:25461/limitado/limitadoxtlker/496
+#EXTINF:-1, Nat Geo Wild
+http://iptvactivador.online:25461/limitado/limitadoxtlker/495
+#EXTINF:-1,Nat Geo (USA)
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1010
+#EXTINF:-1, Nat Geo Wild (USA)
+http://iptvactivador.online:25461/limitado/limitadoxtlker/997
+#EXTINF:-1, Nat Geo People HD (USA)
+http://iptvactivador.online:25461/limitado/limitadoxtlker/998
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png", MTV 
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/531.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/200px-MTV_Live.svg.png", MTV Live
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/530.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/175px-MTV_Hits_2017_logo.svg.png", MTV Hits
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/529.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/130px-VH1_logonew.svg.png", VH1
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/579.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/150px-VH1_Classic_UK.svg.png ", VH1 Classics 
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/578.ts
+
+#EXTINF:-1, FOX Life
+http://iptvactivador.online:25461/limitado/limitadoxtlker/102
+#EXTINF:-1, E!
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1526
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png",Glitz
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1527
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/220px-%C2%A1HOLA%21TVlogo.jpg ", Hola TV
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1524
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png", Telemundo
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1558
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png", Univision
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1984
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97803_RCN.png", RCN
+https://jimmy.zappingtv.com/rcn/rcn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/97802_RCN_Novelas.png", RCN Novelas
+https://jimmy.zappingtv.com/rcnnvl/rcnnvl.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83636_ETB.png", ETB
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png", Canal IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83647_TV_Marti.png", TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96282_TV_Publica.png", TV Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96977_Antena_3_Internacional.png", Antena 3 Internacional
+https://livestartover.atresmedia.com/a3internacional/bitrate_4.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/96666_TV_Galicia_America.png", TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83645_RTVE1.png", RTVE1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83644_RTVE24.png", RTVE24
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83638_CGTN_Espanol.png", CGTN Espanol
+https://live.cgtn.com/cctv-e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://s3.spbtv.com/rosing-production/34970a702bcb2748f65f.png", RT Espanol
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/548.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png", RT
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/549.ts
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/250px-Emblema_de_TeleSur.png", Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png", CNN Internacional 
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/458.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/125px-CNN_en_Espa%C3%B1ol.svg.png", CNN en Espanol
+http://iptvactivador.online:25461/limitado/limitadoxtlker/1544
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/93249_CNN_Chile.jpg", CNN Chile
+https://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84048_TVN_24_Horas.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45130_TVN_24_Horas_2.png", TVN 24 Horas 2
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79045_Meganoticias.png", Meganoticias
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45133_T13_Movil.png",  T13 Movil
+https://t13-movil-live.cdn.nedmedia.io/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/68904_EMOL_TV.png", EMOL TV
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/175px-Bloomberg_Television_logo.svg.png", Bloomberg TV
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/446.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmzq3pF.png", YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+
